@@ -1,4 +1,6 @@
 using Demo.DataAccess.Data.Contexts;
+using Demo.DataAccess.Data.Repositories;
+using Demo.DataAccess.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace Demo.Presentation
@@ -20,8 +22,9 @@ namespace Demo.Presentation
                 //options. UseSqlServer("ConnectionString");
                 //options. UseSqlServer(builder. Configuration["ConnectionStrings: DefaultConnectionString"]);
                 //options. UseSqlServer(builder. Configuration. GetSection("ConnectionStrings") ["DefaultConnectionString"]
-                options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnectionString)");
+                options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnectionString)"));
             });
+            //builder.Services.AddScoped<IDepartmentRepository,DepartmentRepository >();
             #endregion
             var app = builder.Build();
 
