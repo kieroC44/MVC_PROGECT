@@ -1,0 +1,11 @@
+C:\Back_End_C44\07 ASP .NET Core MVC\PROJECT_MVC\GroupOneSolution\Demo.DataAccess\bin\Debug\net8.0\Demo.DataAccess.deps.json
+C:\Back_End_C44\07 ASP .NET Core MVC\PROJECT_MVC\GroupOneSolution\Demo.DataAccess\bin\Debug\net8.0\Demo.DataAccess.dll
+C:\Back_End_C44\07 ASP .NET Core MVC\PROJECT_MVC\GroupOneSolution\Demo.DataAccess\bin\Debug\net8.0\Demo.DataAccess.pdb
+C:\Back_End_C44\07 ASP .NET Core MVC\PROJECT_MVC\GroupOneSolution\Demo.DataAccess\obj\Debug\net8.0\Demo.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Back_End_C44\07 ASP .NET Core MVC\PROJECT_MVC\GroupOneSolution\Demo.DataAccess\obj\Debug\net8.0\Demo.DataAccess.AssemblyInfoInputs.cache
+C:\Back_End_C44\07 ASP .NET Core MVC\PROJECT_MVC\GroupOneSolution\Demo.DataAccess\obj\Debug\net8.0\Demo.DataAccess.AssemblyInfo.cs
+C:\Back_End_C44\07 ASP .NET Core MVC\PROJECT_MVC\GroupOneSolution\Demo.DataAccess\obj\Debug\net8.0\Demo.DataAccess.csproj.CoreCompileInputs.cache
+C:\Back_End_C44\07 ASP .NET Core MVC\PROJECT_MVC\GroupOneSolution\Demo.DataAccess\obj\Debug\net8.0\Demo.DataAccess.dll
+C:\Back_End_C44\07 ASP .NET Core MVC\PROJECT_MVC\GroupOneSolution\Demo.DataAccess\obj\Debug\net8.0\refint\Demo.DataAccess.dll
+C:\Back_End_C44\07 ASP .NET Core MVC\PROJECT_MVC\GroupOneSolution\Demo.DataAccess\obj\Debug\net8.0\Demo.DataAccess.pdb
+C:\Back_End_C44\07 ASP .NET Core MVC\PROJECT_MVC\GroupOneSolution\Demo.DataAccess\obj\Debug\net8.0\ref\Demo.DataAccess.dll
