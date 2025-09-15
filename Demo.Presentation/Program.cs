@@ -1,3 +1,6 @@
+using Demo.DataAccess.Data.Contexts;
+using Microsoft.EntityFrameworkCore;
+
 namespace Demo.Presentation
 {
     public class Program
@@ -9,7 +12,16 @@ namespace Demo.Presentation
             // Add services to the container.
             #region DI Contaier
             builder.Services.AddControllersWithViews();
-
+            //Lifetimes [Objects] == > AddScoped , AddSingeltion, AddTranisent
+            //builder.Services.AddScoped<ApplicationDbContext>();
+            //AddDbContext == > Allow di DbContext
+            builder.Services.AddDbContext<ApplicationDbContext>(options =>
+            {
+                //options. UseSqlServer("ConnectionString");
+                //options. UseSqlServer(builder. Configuration["ConnectionStrings: DefaultConnectionString"]);
+                //options. UseSqlServer(builder. Configuration. GetSection("ConnectionStrings") ["DefaultConnectionString"]
+                options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnectionString)");
+            });
             #endregion
             var app = builder.Build();
 

@@ -1,16 +1,20 @@
-﻿
+﻿ 
 using System.Reflection;
 
 namespace Demo.DataAccess.Data.Contexts
 {
-    internal class ApplicationDbContext : DbContext
+    public class ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : DbContext(options)
     {
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            optionsBuilder.UseSqlServer("ConnectionString");
-        }
 
-         protected override void OnModelCreating(ModelBuilder modelBuilder)
+
+
+
+        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        //{
+        //    optionsBuilder.UseSqlServer("ConnectionString");
+        //}
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
          {
             //modelBuilder. ApplyConfiguration<Department>(new DepartmentConifgurations());
             modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
