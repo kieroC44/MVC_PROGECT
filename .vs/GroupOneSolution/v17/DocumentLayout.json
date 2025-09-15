@@ -5,6 +5,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{23D86794-A711-4996-8531-DB160DF14F6A}|Demo.Presentation\\Demo.Presentation.csproj|c:\\back_end_c44\\07 asp .net core mvc\\project_mvc\\grouponesolution\\demo.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23D86794-A711-4996-8531-DB160DF14F6A}|Demo.Presentation\\Demo.Presentation.csproj|solutionrelative:demo.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B46676E-4605-4271-84DC-E998998902F0}|Demo.DataAccess\\Demo.DataAccess.csproj|c:\\back_end_c44\\07 asp .net core mvc\\project_mvc\\grouponesolution\\demo.dataaccess\\data\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B46676E-4605-4271-84DC-E998998902F0}|Demo.DataAccess\\Demo.DataAccess.csproj|solutionrelative:demo.dataaccess\\data\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D86794-A711-4996-8531-DB160DF14F6A}|Demo.Presentation\\Demo.Presentation.csproj|c:\\back_end_c44\\07 asp .net core mvc\\project_mvc\\grouponesolution\\demo.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{23D86794-A711-4996-8531-DB160DF14F6A}|Demo.Presentation\\Demo.Presentation.csproj|solutionrelative:demo.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B46676E-4605-4271-84DC-E998998902F0}|Demo.DataAccess\\Demo.DataAccess.csproj|c:\\back_end_c44\\07 asp .net core mvc\\project_mvc\\grouponesolution\\demo.dataaccess\\data\\repositories\\classes\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B46676E-4605-4271-84DC-E998998902F0}|Demo.DataAccess\\Demo.DataAccess.csproj|solutionrelative:demo.dataaccess\\data\\repositories\\classes\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565D3E14-8114-4C8F-A5EC-76C76E5BA81A}|Demo.BusinessLogic\\Demo.BusinessLogic.csproj|c:\\back_end_c44\\07 asp .net core mvc\\project_mvc\\grouponesolution\\demo.businesslogic\\service\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565D3E14-8114-4C8F-A5EC-76C76E5BA81A}|Demo.BusinessLogic\\Demo.BusinessLogic.csproj|solutionrelative:demo.businesslogic\\service\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,8 +33,60 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Back_End_C44\\07 ASP .NET Core MVC\\PROJECT_MVC\\GroupOneSolution\\Demo.DataAccess\\Data\\Repositories\\Classes\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "Demo.DataAccess\\Data\\Repositories\\Classes\\DepartmentRepository.cs",
+              "ToolTip": "C:\\Back_End_C44\\07 ASP .NET Core MVC\\PROJECT_MVC\\GroupOneSolution\\Demo.DataAccess\\Data\\Repositories\\Classes\\DepartmentRepository.cs",
+              "RelativeToolTip": "Demo.DataAccess\\Data\\Repositories\\Classes\\DepartmentRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T19:45:07.484Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Back_End_C44\\07 ASP .NET Core MVC\\PROJECT_MVC\\GroupOneSolution\\Demo.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "Demo.Presentation\\appsettings.json",
+              "ToolTip": "C:\\Back_End_C44\\07 ASP .NET Core MVC\\PROJECT_MVC\\GroupOneSolution\\Demo.Presentation\\appsettings.json",
+              "RelativeToolTip": "Demo.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-15T19:57:40.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Back_End_C44\\07 ASP .NET Core MVC\\PROJECT_MVC\\GroupOneSolution\\Demo.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Demo.Presentation\\Program.cs",
+              "ToolTip": "C:\\Back_End_C44\\07 ASP .NET Core MVC\\PROJECT_MVC\\GroupOneSolution\\Demo.Presentation\\Program.cs*",
+              "RelativeToolTip": "Demo.Presentation\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T19:48:01.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Back_End_C44\\07 ASP .NET Core MVC\\PROJECT_MVC\\GroupOneSolution\\Demo.BusinessLogic\\Service\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "Demo.BusinessLogic\\Service\\DepartmentService.cs",
+              "ToolTip": "C:\\Back_End_C44\\07 ASP .NET Core MVC\\PROJECT_MVC\\GroupOneSolution\\Demo.BusinessLogic\\Service\\DepartmentService.cs",
+              "RelativeToolTip": "Demo.BusinessLogic\\Service\\DepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T20:22:57.723Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -30,15 +98,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Back_End_C44\\07 ASP .NET Core MVC\\PROJECT_MVC\\GroupOneSolution\\Demo.Presentation\\Program.cs",
-              "RelativeDocumentMoniker": "Demo.Presentation\\Program.cs",
-              "ToolTip": "C:\\Back_End_C44\\07 ASP .NET Core MVC\\PROJECT_MVC\\GroupOneSolution\\Demo.Presentation\\Program.cs",
-              "RelativeToolTip": "Demo.Presentation\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Back_End_C44\\07 ASP .NET Core MVC\\PROJECT_MVC\\GroupOneSolution\\Demo.DataAccess\\Data\\Contexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Demo.DataAccess\\Data\\Contexts\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Back_End_C44\\07 ASP .NET Core MVC\\PROJECT_MVC\\GroupOneSolution\\Demo.DataAccess\\Data\\Contexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Demo.DataAccess\\Data\\Contexts\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T15:32:15.579Z",
+              "WhenOpened": "2025-09-15T19:06:05.349Z",
               "EditorCaption": ""
             }
           ]
