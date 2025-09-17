@@ -13,3 +13,4 @@ C:\Back_End_C44\07 ASP .NET Core MVC\PROJECT_MVC\GroupOneSolution\Demo.BusinessL
 C:\Back_End_C44\07 ASP .NET Core MVC\PROJECT_MVC\GroupOneSolution\Demo.BusinessLogic\obj\Debug\net8.0\refint\Demo.BusinessLogic.dll
 C:\Back_End_C44\07 ASP .NET Core MVC\PROJECT_MVC\GroupOneSolution\Demo.BusinessLogic\obj\Debug\net8.0\Demo.BusinessLogic.pdb
 C:\Back_End_C44\07 ASP .NET Core MVC\PROJECT_MVC\GroupOneSolution\Demo.BusinessLogic\obj\Debug\net8.0\ref\Demo.BusinessLogic.dll
+C:\Back_End_C44\07 ASP .NET Core MVC\PROJECT_MVC\GroupOneSolution\Demo.BusinessLogic\obj\Debug\net8.0\Demo.BusinessLogic.sourcelink.json
