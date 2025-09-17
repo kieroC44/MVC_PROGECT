@@ -1,6 +1,6 @@
 ﻿namespace Demo.Presentation
 {
-    internal interface IDepartmentRepository
+    public interface IDepartmentRepository
     {
     }
 }

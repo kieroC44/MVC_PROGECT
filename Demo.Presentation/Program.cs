@@ -24,7 +24,7 @@ namespace Demo.Presentation
                 //options. UseSqlServer(builder. Configuration. GetSection("ConnectionStrings") ["DefaultConnectionString"]
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnectionString)"));
             });
-            //builder.Services.AddScoped<IDepartmentRepository,DepartmentRepository >();
+            //builder.Services.AddScoped<IDepartmentRepository, DepartmentRepository>();
             #endregion
             var app = builder.Build();
 
